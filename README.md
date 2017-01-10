@@ -8,10 +8,15 @@ A great source of information to learn and practice German as a foreign language
 
 ## TV
 * [Das Erste](http://www.daserste.de/)
-* [Zweites Deutsches Fernsehen](https://www.zdf.de/)
+* [Zweites Deutsches Fernsehen](http://www.zdf.de/)
 * [Westdeutscher Rundfunk](http://www1.wdr.de/)
 
 ## Radio
 * [SWR3](http://www.swr3.de/)
-* [Alster Radio 106!8](http://www.alsterradio.de/)
+* [alster radio 106!8](http://www.alsterradio.de/)
 * [WDR Radio](http://www1.wdr.de/radio/)
+
+## Dictionary
+* [Leo](https://www.leo.org/)
+* [dict.cc](https://www.dict.cc/)
+* [bab.la](http://de.bab.la/)
