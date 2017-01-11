@@ -7,6 +7,7 @@ A great source of information to learn and practice German as a foreign language
 * [ZEIT ONLINE](http://www.zeit.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.zeit.online)
 * [Süddeutsche Zeitung](http://www.sueddeutsche.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.sde.mobile)
 * [Frankfurter Allgemeine Zeitung](http://www.faz.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.faz.FAZ)
+* [Die Welt](https://www.welt.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.cellular.n24hybrid)
 
 ## TV channels
 * [Das Erste](http://www.daserste.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.daserste.daserste)
