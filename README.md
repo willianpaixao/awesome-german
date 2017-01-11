@@ -4,14 +4,15 @@ Do you want to learn German? *Awesome*.
 A great source of information to learn and practice German as a foreign language.
 
 ## Newspaper
-* [ZEIT ONLINE](http://www.zeit.de/)
-* [Süddeutsche Zeitung](http://www.sueddeutsche.de/)
-* [Frankfurter Allgemeine Zeitung](http://www.faz.net/)
+* [ZEIT ONLINE](http://www.zeit.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.zeit.online)
+* [Süddeutsche Zeitung](http://www.sueddeutsche.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.sde.mobile)
+* [Frankfurter Allgemeine Zeitung](http://www.faz.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.faz.FAZ)
 
 ## TV
-* [Das Erste](http://www.daserste.de/)
-* [Zweites Deutsches Fernsehen](http://www.zdf.de/)
-* [Westdeutscher Rundfunk](http://www1.wdr.de/)
+* [Das Erste](http://www.daserste.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.daserste.daserste)
+* [Zweites Deutsches Fernsehen](http://www.zdf.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.zdf.android.mediathek)
+* [Westdeutscher Rundfunk](http://www1.wdr.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.wdr.ipv)
+* [Tagesschau](https://www.tagesschau.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.tagesschau)
 
 # Magazine
 * [BILD](http://www.bild.de/)
@@ -19,7 +20,7 @@ A great source of information to learn and practice German as a foreign language
 * [Wirtschaftswoche](http://www.wiwo.de/)
 
 ## Radio
-* [SWR3](http://www.swr3.de/)
+* [SWR3](http://www.swr3.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.swr.swr3radio)
 * [alster radio 106!8](http://www.alsterradio.de/)
 * [WDR Radio](http://www1.wdr.de/radio/)
 
