@@ -14,6 +14,10 @@ A great source of information to learn and practice German as a foreign language
 * [Westdeutscher Rundfunk](http://www1.wdr.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.wdr.ipv)
 * [Tagesschau](https://www.tagesschau.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.tagesschau)
 
+## YouTube channels
+* [Deutsch für Euch](https://www.youtube.com/user/DeutschFuerEuch)
+* [Get Germanized](https://www.youtube.com/user/MeisterLehnsherr)
+
 ## Magazines
 * [BILD](http://www.bild.de/)
 * [SPIEGEL](http://www.spiegel.de/)
@@ -24,10 +28,10 @@ A great source of information to learn and practice German as a foreign language
 * [alster radio 106!8](http://www.alsterradio.de/)
 * [WDR Radio](http://www1.wdr.de/radio/)
 
-## Dictionaries
-* [Leo](https://www.leo.org/)
-* [dict.cc](https://www.dict.cc/)
-* [bab.la](http://de.bab.la/)
+## Online courses
+* [Duolingo](https://www.duolingo.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.duolingo)
+* [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
+* [Lingolia](https://deutsch.lingolia.com/en/)
 
 ## Podcasts
 ### Deutsche welle
@@ -58,3 +62,8 @@ A great source of information to learn and practice German as a foreign language
 ### Certifications
 * [Mit Erfolg zum Goethe-Zertifikat](http://www.klett-sprachen.de/mit-erfolg-zum-goethe-zertifikat/r-388/174)
 * [Mit Erfolg zum TestDaF](http://www.klett-sprachen.de/mit-erfolg-zum-testdaf/r-388/175)
+
+## Dictionaries
+* [Leo](https://www.leo.org/)
+* [dict.cc](https://www.dict.cc/)
+* [bab.la](http://de.bab.la/)
