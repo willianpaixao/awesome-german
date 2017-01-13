@@ -27,12 +27,24 @@ A great source of information to learn and practice German as a foreign language
 ## Radios
 * [SWR3](http://www.swr3.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.swr.swr3radio)
 * [alster radio 106!8](http://www.alsterradio.de/)
-* [WDR Radio](http://www1.wdr.de/radio/)
+* [WDR Radio](http://www1.wdr.de/radio/) [\[app\]](https://play.google.com/store/apps/details?id=de.crowdradio.wdr2)
 
 ## Online courses
 * [Duolingo](https://www.duolingo.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.duolingo)
 * [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
-* [Lingolia](https://deutsch.lingolia.com/en/)
+* [Lingolia](https://deutsch.lingolia.com/en/) [\[app\]](https://play.google.com/store/apps/details?id=com.lingolia.daily.app)
+
+## Useful apps and services
+
+**\[MUSIC\]**
+* [Spotify](https://spotify.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.spotify.music)
+
+**\[SOCIAL NETWORKS\]**
+* [Tandem](https://www.tandem.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.tandem)
+
+**\[PODCASTS & Radio\]**
+* Podcast & Radio Addict [\[app\]](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
+* [TuneIn Radio](http://tunein.com/) [\[app\]](https://play.google.com/store/apps/details?id=tunein.player)
 
 ## Podcasts
 ### Deutsche welle
