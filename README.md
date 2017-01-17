@@ -1,7 +1,9 @@
-# awesome-german
+# awesome-german :de:
 Do you want to learn German? *Awesome*.
 
 A great source of information to learn and practice German as a foreign language.
+
+> This repository is not meant to gather every link or service available, but keep small and high quality resouces. In short, those are my favorite places to learn and practice German. :wink:
 
 ## Newspapers
 * [ZEIT ONLINE](http://www.zeit.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.zeit.online)
@@ -36,25 +38,25 @@ A great source of information to learn and practice German as a foreign language
 
 ## Useful apps and services
 
-**\[MUSIC\]**
+### MUSIC
 * [Spotify](https://spotify.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.spotify.music)
 
-**\[SOCIAL NETWORKS\]**
+### SOCIAL NETWORKS
 * [Tandem](https://www.tandem.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.tandem)
 
-**\[PODCASTS & Radio\]**
+### PODCASTS & Radio
 * Podcast & Radio Addict [\[app\]](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
 * [TuneIn Radio](http://tunein.com/) [\[app\]](https://play.google.com/store/apps/details?id=tunein.player)
 
 ## Podcasts
 ### Deutsche welle
 
-**\[EN\]**
+#### EN
 * [Deutsch – warum nicht?](http://www.dw.com/en/learn-german/deutsch-warum-nicht/s-2548)
 * [Audiotrainer](http://www.dw.com/en/learn-german/audiotrainer/s-9677)
 * [Langsam gesprochene Nachrichten](http://www.dw.com/de/deutsch-lernen/nachrichten/s-8030)
 
-**\[PT\]**
+#### PT
 * [Deutsch – warum nicht?](http://www.dw.com/pt-br/aprender-alem%C3%A3o/deutsch-warum-nicht/s-2595)
 * [Wieso nicht?](http://www.dw.com/pt-br/aprender-alem%C3%A3o/wieso-nicht/s-2596)
 * [Treinador de pronúncia](http://www.dw.com/pt-br/aprender-alem%C3%A3o/audiotrainer/s-9667)
