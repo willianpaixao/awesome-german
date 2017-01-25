@@ -28,7 +28,7 @@ A great source of information to learn and practice German as a foreign language
 
 ## Radios
 * [SWR3](http://www.swr3.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.swr.swr3radio)
-* [alster radio 106!8](http://www.alsterradio.de/)
+* [alster radio 106!8](http://www.alsterradio.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.skelpo.alsterradio)
 * [WDR Radio](http://www1.wdr.de/radio/) [\[app\]](https://play.google.com/store/apps/details?id=de.crowdradio.wdr2)
 
 ## Online courses
@@ -82,3 +82,11 @@ A great source of information to learn and practice German as a foreign language
 * [Leo](https://www.leo.org/)
 * [dict.cc](https://www.dict.cc/)
 * [bab.la](http://de.bab.la/)
+
+## Government Institutes
+### [DAAD](https://www.daad.org/en/)
+* [German Language Skills](https://www.daad.org/en/study-research-in-germany/german-language-skills/)
+* [Study in Germany](https://www.daad.org/en/study-research-in-germany/study-in-germany/)
+
+### [Goethe-Institut](https://www.goethe.de/en/index.html)
+* [Deutsch Online](http://www.goethe.de/lrn/prj/fer/deindex.htm)
