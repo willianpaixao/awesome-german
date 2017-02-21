@@ -36,6 +36,11 @@ A great source of information to learn and practice German as a foreign language
 * [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
 * [Lingolia](https://deutsch.lingolia.com/en/) [\[app\]](https://play.google.com/store/apps/details?id=com.lingolia.daily.app)
 * [BBC German Course](http://www.bbc.co.uk/languages/german/)
+* [German.net](http://german.net/)
+* [schoLINGUA](https://www.scholingua.com/en/de/conjugation-trainer)
+
+## Blogs
+* [German is easy!](https://yourdailygerman.com/)
 
 ## Useful apps and services
 
@@ -85,6 +90,7 @@ A great source of information to learn and practice German as a foreign language
 * [Leo](https://www.leo.org/)
 * [dict.cc](https://www.dict.cc/)
 * [bab.la](http://de.bab.la/)
+* [Linguee](https://www.linguee.de/)
 
 ## Government Institutes
 
