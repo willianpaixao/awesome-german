@@ -20,16 +20,23 @@ A great source of information to learn and practice German as a foreign language
 ## YouTube channels
 * [Deutsch für Euch](https://www.youtube.com/user/DeutschFuerEuch)
 * [Get Germanized](https://www.youtube.com/user/MeisterLehnsherr)
+* [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)
+* [WantedAdventure](https://www.youtube.com/user/WantedAdventure)
+* [Learn German with Ania](https://www.youtube.com/channel/UCZwegPHTG4gvnR0WLzaq5OQ)
+* [Learn German with Jenny](https://www.youtube.com/channel/UClBrbJXNh2sFxOuvH4o5H9g)
 
 ## Magazines
 * [BILD](http://www.bild.de/)
 * [SPIEGEL](http://www.spiegel.de/)
 * [Wirtschaftswoche](http://www.wiwo.de/)
+* [FOCUS](http://www.focus.de/)
+* [Spex](http://www.spex.de/)
 
 ## Radios
 * [SWR3](http://www.swr3.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.swr.swr3radio)
 * [alster radio 106!8](http://www.alsterradio.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.skelpo.alsterradio)
 * [WDR Radio](http://www1.wdr.de/radio/) [\[app\]](https://play.google.com/store/apps/details?id=de.crowdradio.wdr2)
+* [ARD Radio](http://www.ard.de/home/radio/Radio/22550/index.html) [\[app\]](https://play.google.com/store/apps/details?id=de.swr.avp.ard)
 
 ## Online courses
 * [Duolingo](https://www.duolingo.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.duolingo)
@@ -40,7 +47,13 @@ A great source of information to learn and practice German as a foreign language
 * [schoLINGUA](https://www.scholingua.com/en/de/conjugation-trainer)
 
 ## Blogs
+
+#### EN
 * [German is easy!](https://yourdailygerman.com/)
+
+#### PT
+* [Quero aprender alemão](http://www.aprenderalemao.com/)
+* [Aprender Alemão](http://www.aprender-alemao.com/index.html)
 
 ## Useful apps and services
 
