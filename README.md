@@ -5,6 +5,8 @@ A great source of information to learn and practice German as a foreign language
 
 > This repository is not meant to gather every link or service available, but keep small and high quality resouces. In short, those are my favorite places to learn and practice German. :wink:
 
+> If you have a suggestion or found a broken link, please do not hesitate on [open an issue](https://github.com/willianpaixao/awesome-german/issues).
+
 ## Newspapers
 * [ZEIT ONLINE](http://www.zeit.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.zeit.online)
 * [Süddeutsche Zeitung](http://www.sueddeutsche.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.sde.mobile)
@@ -56,6 +58,9 @@ A great source of information to learn and practice German as a foreign language
 * [Aprender Alemão](http://www.aprender-alemao.com/index.html)
 
 ## Useful apps and services
+
+### Flashcards
+* [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
 ### MUSIC
 * [Spotify](https://spotify.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.spotify.music)
