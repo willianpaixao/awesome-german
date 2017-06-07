@@ -59,7 +59,7 @@ A great source of information to learn and practice German as a foreign language
 
 ## Useful apps and services
 
-### Flashcards
+### FLASHCARDS
 * [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
 
 ### MUSIC
