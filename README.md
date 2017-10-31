@@ -7,6 +7,37 @@ A great source of information to learn and practice German as a foreign language
 
 > If you have a suggestion or found a broken link, please do not hesitate on [open an issue](https://github.com/willianpaixao/awesome-german/issues).
 
+<!-- vim-markdown-toc GFM -->
+
+* [Newspapers](#newspapers)
+* [TV channels](#tv-channels)
+* [YouTube channels](#youtube-channels)
+* [Magazines](#magazines)
+* [Radios](#radios)
+* [Online courses](#online-courses)
+* [Blogs](#blogs)
+        * [EN](#en)
+        * [PT](#pt)
+* [Useful apps and services](#useful-apps-and-services)
+    * [FLASHCARDS](#flashcards)
+    * [MUSIC](#music)
+    * [SOCIAL NETWORKS](#social-networks)
+    * [PODCASTS & Radio](#podcasts--radio)
+* [Podcasts](#podcasts)
+    * [Deutsche welle](#deutsche-welle)
+        * [EN](#en-1)
+        * [PT](#pt-1)
+* [Books](#books)
+    * [Course books](#course-books)
+    * [Grammar books](#grammar-books)
+    * [Certifications](#certifications)
+* [Dictionaries](#dictionaries)
+* [Government Institutes](#government-institutes)
+    * [DAAD](#daad)
+    * [Goethe-Institut](#goethe-institut)
+
+<!-- vim-markdown-toc -->
+
 ## Newspapers
 * [ZEIT ONLINE](http://www.zeit.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.zeit.online)
 * [Süddeutsche Zeitung](http://www.sueddeutsche.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.sde.mobile)
