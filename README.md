@@ -7,8 +7,7 @@ A great source of information to learn and practice German as a foreign language
 
 > If you have a suggestion or found a broken link, please do not hesitate on [open an issue](https://github.com/willianpaixao/awesome-german/issues).
 
-<!-- vim-markdown-toc GFM -->
-
+## Table of contents
 * [Newspapers](#newspapers)
 * [TV channels](#tv-channels)
 * [YouTube channels](#youtube-channels)
@@ -16,27 +15,11 @@ A great source of information to learn and practice German as a foreign language
 * [Radios](#radios)
 * [Online courses](#online-courses)
 * [Blogs](#blogs)
-        * [EN](#en)
-        * [PT](#pt)
 * [Useful apps and services](#useful-apps-and-services)
-    * [FLASHCARDS](#flashcards)
-    * [MUSIC](#music)
-    * [SOCIAL NETWORKS](#social-networks)
-    * [PODCASTS & Radio](#podcasts--radio)
 * [Podcasts](#podcasts)
-    * [Deutsche welle](#deutsche-welle)
-        * [EN](#en-1)
-        * [PT](#pt-1)
 * [Books](#books)
-    * [Course books](#course-books)
-    * [Grammar books](#grammar-books)
-    * [Certifications](#certifications)
 * [Dictionaries](#dictionaries)
 * [Government Institutes](#government-institutes)
-    * [DAAD](#daad)
-    * [Goethe-Institut](#goethe-institut)
-
-<!-- vim-markdown-toc -->
 
 ## Newspapers
 * [ZEIT ONLINE](http://www.zeit.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.zeit.online)
@@ -54,9 +37,10 @@ A great source of information to learn and practice German as a foreign language
 * [Deutsch für Euch](https://www.youtube.com/user/DeutschFuerEuch)
 * [Get Germanized](https://www.youtube.com/user/MeisterLehnsherr)
 * [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)
-* [WantedAdventure](https://www.youtube.com/user/WantedAdventure)
+* [Wanted Adventure](https://www.youtube.com/user/WantedAdventure)
 * [Learn German with Ania](https://www.youtube.com/channel/UCZwegPHTG4gvnR0WLzaq5OQ)
 * [Learn German with Jenny](https://www.youtube.com/channel/UClBrbJXNh2sFxOuvH4o5H9g)
+* [DontTrustTheRabbit](https://www.youtube.com/channel/UC1-MpIG20o6kzsu1I5SLXpQ)
 
 ## Magazines
 * [BILD](http://www.bild.de/)
@@ -92,11 +76,16 @@ A great source of information to learn and practice German as a foreign language
 
 ### FLASHCARDS
 * [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
+  * [Top 4047 German Vocab with Native Audio Sample Sentences](https://ankiweb.net/shared/info/463280893)
 
 ### MUSIC
 * [Spotify](https://spotify.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.spotify.music)
 
 ### SOCIAL NETWORKS
+* [Reddit](https://www.reddit.com/)
+    * [r/German/wiki/index](https://www.reddit.com/r/German/wiki/index)
+    * [r/de/](https://www.reddit.com/r/de/)
+    * [r/ich_iel/](https://www.reddit.com/r/ich_iel/)
 * [Tandem](https://www.tandem.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.tandem)
 
 ### PODCASTS & Radio
@@ -118,22 +107,7 @@ A great source of information to learn and practice German as a foreign language
 * [Treinador de pronúncia](http://www.dw.com/pt-br/aprender-alem%C3%A3o/audiotrainer/s-9667)
 
 ## Books
-
-### Course books
-* [Menschen](https://www.hueber.de/menschen)
-* [Schritte international Neu](https://www.hueber.de/schritte-international-neu)
-* [Berliner Platz NEU](http://www.klett-sprachen.de/berliner-platz-neu/r-388/28)
-* [studio \[21\]](http://www.cornelsen.de/studio_21/)
-* [studio d](http://www.cornelsen.de/studio_d/)
-
-### Grammar books
-* [Duden - Die Grammatik](http://www.duden.de/die-grammatik)
-* [Lehr- und Übungsbuch der deutschen Grammatik – aktuell](https://shop.hueber.de/de/lb-u-ueb-d-dt-gramm-aktuell.html)
-* [Langenscheidt Grammatiktraining Deutsch als Fremdsprache](https://www.langenscheidt.de/Langenscheidt-Grammatiktraining-Deutsch-als-Fremdsprache-Buch-mit-Online-uebungen/978-3-468-34898-3)
-
-### Certifications
-* [Mit Erfolg zum Goethe-Zertifikat](http://www.klett-sprachen.de/mit-erfolg-zum-goethe-zertifikat/r-388/174)
-* [Mit Erfolg zum TestDaF](http://www.klett-sprachen.de/mit-erfolg-zum-testdaf/r-388/175)
+See the [book chapter](books.md).
 
 ## Dictionaries
 * [Leo](https://www.leo.org/)
