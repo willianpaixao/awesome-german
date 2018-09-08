@@ -26,6 +26,7 @@ A great source of information to learn and practice German as a foreign language
 * [Süddeutsche Zeitung](http://www.sueddeutsche.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.sde.mobile)
 * [Frankfurter Allgemeine Zeitung](http://www.faz.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.faz.FAZ)
 * [Die Welt](https://www.welt.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.cellular.n24hybrid)
+* [Deutsche Welle](https://www.dw.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.idmedia.android.newsportal)
 
 ## TV channels
 * [Das Erste](http://www.daserste.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.daserste.daserste)
@@ -48,6 +49,7 @@ A great source of information to learn and practice German as a foreign language
 * [Wirtschaftswoche](http://www.wiwo.de/)
 * [FOCUS](http://www.focus.de/)
 * [Spex](http://www.spex.de/)
+* [Goethe-Institut](https://www.goethe.de/de/spr/mag.html)
 
 ## Radios
 * [SWR3](http://www.swr3.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.swr.swr3radio)
@@ -58,6 +60,7 @@ A great source of information to learn and practice German as a foreign language
 ## Online courses
 * [Duolingo](https://www.duolingo.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.duolingo)
 * [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
+* [Deutsche Welle](https://www.dw.com/learn-german/) [\[app\]](https://play.google.com/store/apps/details?id=com.dw.learngerman)
 * [Lingolia](https://deutsch.lingolia.com/en/) [\[app\]](https://play.google.com/store/apps/details?id=com.lingolia.daily.app)
 * [BBC German Course](http://www.bbc.co.uk/languages/german/)
 * [German.net](http://german.net/)
@@ -82,8 +85,8 @@ A great source of information to learn and practice German as a foreign language
 * [Spotify](https://spotify.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.spotify.music)
 
 ### SOCIAL NETWORKS
-* [Reddit](https://www.reddit.com/)
-    * [r/German/wiki/index](https://www.reddit.com/r/German/wiki/index)
+* [Reddit](https://www.reddit.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
+    * [r/German/wiki](https://www.reddit.com/r/German/wiki/index)
     * [r/de/](https://www.reddit.com/r/de/)
     * [r/ich_iel/](https://www.reddit.com/r/ich_iel/)
 * [Tandem](https://www.tandem.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.tandem)
@@ -94,7 +97,7 @@ A great source of information to learn and practice German as a foreign language
 
 ## Podcasts
 
-### Deutsche welle
+### Deutsche Welle
 
 #### EN
 * [Deutsch – warum nicht?](http://www.dw.com/en/learn-german/deutsch-warum-nicht/s-2548)
@@ -123,3 +126,4 @@ See the [book chapter](books.md).
 
 ### [Goethe-Institut](https://www.goethe.de/en/index.html)
 * [Deutsch Online](http://www.goethe.de/lrn/prj/fer/deindex.htm)
+* [apps](https://play.google.com/store/apps/developer?id=Goethe-Institut+e.V.)
