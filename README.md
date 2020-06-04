@@ -65,6 +65,7 @@ A great source of information to learn and practice German as a foreign language
 * [BBC German Course](http://www.bbc.co.uk/languages/german/)
 * [German.net](http://german.net/)
 * [schoLINGUA](https://www.scholingua.com/en/de/conjugation-trainer)
+* [Deutsch.info](https://deutsch.info/en)
 
 ## Blogs
 
