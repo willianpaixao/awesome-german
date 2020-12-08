@@ -26,7 +26,7 @@ A great source of information to learn and practice German as a foreign language
 * [Süddeutsche Zeitung](http://www.sueddeutsche.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.sde.mobile)
 * [Frankfurter Allgemeine Zeitung](http://www.faz.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.faz.FAZ)
 * [Die Welt](https://www.welt.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.cellular.n24hybrid)
-* [Deutsche Welle](https://www.dw.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.idmedia.android.newsportal)
+* [die tageszeitung (taz)](https://taz.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.thecode.android.tazreader)
 
 ## TV channels
 * [Das Erste](http://www.daserste.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.daserste.daserste)
@@ -56,6 +56,8 @@ A great source of information to learn and practice German as a foreign language
 * [alster radio 106!8](http://www.alsterradio.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.skelpo.alsterradio)
 * [WDR Radio](http://www1.wdr.de/radio/) [\[app\]](https://play.google.com/store/apps/details?id=de.crowdradio.wdr2)
 * [ARD Radio](http://www.ard.de/home/radio/Radio/22550/index.html) [\[app\]](https://play.google.com/store/apps/details?id=de.swr.avp.ard)
+* [Deutsche Welle (DW)](https://www.dw.com/) [\[app\]](https://play.google.com/store/apps/details?id=dw.com.androidtv.live) | [\[app\]](https://play.google.com/store/apps/details?id=com.dw.learngerman)
+* [Deutschlandfunk](https://www.deutschlandfunk.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.deutschlandradio.dlf24)
 
 ## Online courses
 * [Duolingo](https://www.duolingo.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.duolingo)
@@ -71,6 +73,9 @@ A great source of information to learn and practice German as a foreign language
 
 #### EN
 * [German is easy!](https://yourdailygerman.com/)
+
+#### DE
+* [Deutsch lernen mit Deutschlernerblog] (https://deutschlernerblog.de/)
 
 #### PT
 * [Quero aprender alemão](http://www.aprenderalemao.com/)
