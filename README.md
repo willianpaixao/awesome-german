@@ -101,6 +101,9 @@ A great source of information to learn and practice German as a foreign language
 * Podcast & Radio Addict [\[app\]](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
 * [TuneIn Radio](http://tunein.com/) [\[app\]](https://play.google.com/store/apps/details?id=tunein.player)
 
+###  GRAMMAR & WRITING CHECKERS
+* [\[6 Online Tools to Build Your Writing Confidence\]](https://www.fluentu.com/blog/german/german-grammar-check/)
+
 ## Podcasts
 
 ### Deutsche Welle
