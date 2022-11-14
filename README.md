@@ -42,6 +42,7 @@ A great source of information to learn and practice German as a foreign language
 * [Learn German with Ania](https://www.youtube.com/channel/UCZwegPHTG4gvnR0WLzaq5OQ)
 * [Learn German with Jenny](https://www.youtube.com/channel/UClBrbJXNh2sFxOuvH4o5H9g)
 * [DontTrustTheRabbit](https://www.youtube.com/channel/UC1-MpIG20o6kzsu1I5SLXpQ)
+* [Feli from Germany](https://www.youtube.com/c/FelifromGermany)
 
 ## Magazines
 * [BILD](http://www.bild.de/)
