@@ -51,6 +51,7 @@ A great source of information to learn and practice German as a foreign language
 * [FOCUS](http://www.focus.de/)
 * [Spex](http://www.spex.de/)
 * [Goethe-Institut](https://www.goethe.de/de/spr/mag.html)
+* [Deutsch perfekt](https://www.deutsch-perfekt.com/)
 
 ## Radios
 * [SWR3](http://www.swr3.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.swr.swr3radio)
