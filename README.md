@@ -1,13 +1,17 @@
 # awesome-german :de:
+
 Do you want to learn German? *Awesome*.
 
 A great source of information to learn and practice German as a foreign language.
 
-> This repository is not meant to gather every link or service available, but keep small and high quality resouces. In short, those are my favorite places to learn and practice German. :wink:
+> This repository is not meant to gather every link or service available,
+  but keep small and high quality resources.
+  In short, those are my favorite places to learn and practice German. :wink:
 
 > If you have a suggestion or found a broken link, please do not hesitate on [open an issue](https://github.com/willianpaixao/awesome-german/issues).
 
 ## Table of contents
+
 * [Newspapers](#newspapers)
 * [TV channels](#tv-channels)
 * [YouTube channels](#youtube-channels)
@@ -22,6 +26,7 @@ A great source of information to learn and practice German as a foreign language
 * [Government Institutes](#government-institutes)
 
 ## Newspapers
+
 * [ZEIT ONLINE](http://www.zeit.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.zeit.online)
 * [Süddeutsche Zeitung](http://www.sueddeutsche.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.sde.mobile)
 * [Frankfurter Allgemeine Zeitung](http://www.faz.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.faz.FAZ)
@@ -29,12 +34,14 @@ A great source of information to learn and practice German as a foreign language
 * [die tageszeitung (taz)](https://taz.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.thecode.android.tazreader)
 
 ## TV channels
+
 * [Das Erste](http://www.daserste.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.daserste.daserste)
 * [Zweites Deutsches Fernsehen](http://www.zdf.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.zdf.android.mediathek)
 * [Westdeutscher Rundfunk](http://www1.wdr.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.wdr.ipv)
 * [Tagesschau](https://www.tagesschau.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.tagesschau)
 
 ## YouTube channels
+
 * [Deutsch für Euch](https://www.youtube.com/user/DeutschFuerEuch)
 * [Get Germanized](https://www.youtube.com/user/MeisterLehnsherr)
 * [Easy German](https://www.youtube.com/channel/UCbxb2fqe9oNgglAoYqsYOtQ)
@@ -45,6 +52,7 @@ A great source of information to learn and practice German as a foreign language
 * [Feli from Germany](https://www.youtube.com/c/FelifromGermany)
 
 ## Magazines
+
 * [BILD](http://www.bild.de/)
 * [SPIEGEL](http://www.spiegel.de/)
 * [Wirtschaftswoche](http://www.wiwo.de/)
@@ -53,6 +61,7 @@ A great source of information to learn and practice German as a foreign language
 * [Goethe-Institut](https://www.goethe.de/de/spr/mag.html)
 
 ## Radios
+
 * [SWR3](http://www.swr3.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.swr.swr3radio)
 * [alster radio 106!8](http://www.alsterradio.de/) [\[app\]](https://play.google.com/store/apps/details?id=com.skelpo.alsterradio)
 * [WDR Radio](http://www1.wdr.de/radio/) [\[app\]](https://play.google.com/store/apps/details?id=de.crowdradio.wdr2)
@@ -61,6 +70,7 @@ A great source of information to learn and practice German as a foreign language
 * [Deutschlandfunk](https://www.deutschlandfunk.de/) [\[app\]](https://play.google.com/store/apps/details?id=de.deutschlandradio.dlf24)
 
 ## Online courses
+
 * [Duolingo](https://www.duolingo.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.duolingo)
 * [Memrise](https://www.memrise.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.memrise.android.memrisecompanion)
 * [Deutsche Welle](https://www.dw.com/learn-german/) [\[app\]](https://play.google.com/store/apps/details?id=com.dw.learngerman)
@@ -69,36 +79,47 @@ A great source of information to learn and practice German as a foreign language
 * [German.net](http://german.net/)
 * [schoLINGUA](https://www.scholingua.com/en/de/conjugation-trainer)
 * [Deutsch.info](https://deutsch.info/en)
+* [DeutschAkademie](https://www.deutschakademie.de/online-deutschkurs/)
 
 ## Blogs
 
-#### EN
+### EN
+
 * [German is easy!](https://yourdailygerman.com/)
 
-#### DE
+### DE
+
 * [Deutsch lernen mit Deutschlernerblog](https://deutschlernerblog.de/)
 
-#### PT
+### PT
+
 * [Quero aprender alemão](http://www.aprenderalemao.com/)
 * [Aprender Alemão](http://www.aprender-alemao.com/index.html)
 
 ## Useful apps and services
 
 ### FLASHCARDS
+
 * [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki)
-  * [Top 4047 German Vocab with Native Audio Sample Sentences](https://ankiweb.net/shared/info/463280893)
+  * [Langenscheidt Basic German Vocabulary 1-2000](https://ankiweb.net/shared/info/2091117332)
+  * [Complementary B2 Vocabs](https://ankiweb.net/shared/info/1494453383)
+  * [Aspekte B2 German Vocab. 1/2](https://ankiweb.net/shared/info/1846183647)
+  * [Optimal B1 German Vocabulary](https://ankiweb.net/shared/info/570806021)
 
 ### MUSIC
+
 * [Spotify](https://spotify.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.spotify.music)
 
 ### SOCIAL NETWORKS
+
 * [Reddit](https://www.reddit.com/) [\[app\]](https://play.google.com/store/apps/details?id=com.reddit.frontpage)
-    * [r/German/wiki](https://www.reddit.com/r/German/wiki/index)
-    * [r/de/](https://www.reddit.com/r/de/)
-    * [r/ich_iel/](https://www.reddit.com/r/ich_iel/)
+  * [r/German/wiki](https://www.reddit.com/r/German/wiki/index)
+  * [r/de/](https://www.reddit.com/r/de/)
+  * [r/ich_iel/](https://www.reddit.com/r/ich_iel/)
 * [Tandem](https://www.tandem.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.tandem)
 
 ### PODCASTS & Radio
+
 * Podcast & Radio Addict [\[app\]](https://play.google.com/store/apps/details?id=com.bambuna.podcastaddict)
 * [TuneIn Radio](http://tunein.com/) [\[app\]](https://play.google.com/store/apps/details?id=tunein.player)
 
@@ -107,19 +128,23 @@ A great source of information to learn and practice German as a foreign language
 ### Deutsche Welle
 
 #### EN
+
 * [Deutsch – warum nicht?](http://www.dw.com/en/learn-german/deutsch-warum-nicht/s-2548)
 * [Audiotrainer](http://www.dw.com/en/learn-german/audiotrainer/s-9677)
 * [Langsam gesprochene Nachrichten](http://www.dw.com/de/deutsch-lernen/nachrichten/s-8030)
 
 #### PT
+
 * [Deutsch – warum nicht?](http://www.dw.com/pt-br/aprender-alem%C3%A3o/deutsch-warum-nicht/s-2595)
 * [Wieso nicht?](http://www.dw.com/pt-br/aprender-alem%C3%A3o/wieso-nicht/s-2596)
 * [Treinador de pronúncia](http://www.dw.com/pt-br/aprender-alem%C3%A3o/audiotrainer/s-9667)
 
 ## Books
+
 See the [book chapter](books.md).
 
 ## Dictionaries
+
 * [Leo](https://www.leo.org/)
 * [dict.cc](https://www.dict.cc/)
 * [bab.la](http://de.bab.la/)
@@ -128,9 +153,11 @@ See the [book chapter](books.md).
 ## Government Institutes
 
 ### [DAAD](https://www.daad.org/en/)
+
 * [German Language Skills](https://www.daad.org/en/study-research-in-germany/german-language-skills/)
 * [Study in Germany](https://www.daad.org/en/study-research-in-germany/study-in-germany/)
 
 ### [Goethe-Institut](https://www.goethe.de/en/index.html)
+
 * [Deutsch Online](http://www.goethe.de/lrn/prj/fer/deindex.htm)
 * [apps](https://play.google.com/store/apps/developer?id=Goethe-Institut+e.V.)
