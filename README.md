@@ -76,7 +76,7 @@ A great source of information to learn and practice German as a foreign language
 * [German is easy!](https://yourdailygerman.com/)
 
 #### DE
-* [Deutsch lernen mit Deutschlernerblog] (https://deutschlernerblog.de/)
+* [Deutsch lernen mit Deutschlernerblog](https://deutschlernerblog.de/)
 
 #### PT
 * [Quero aprender alemão](http://www.aprenderalemao.com/)
