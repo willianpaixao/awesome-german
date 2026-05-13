@@ -80,6 +80,7 @@ A great source of information to learn and practice German as a foreign language
 * [schoLINGUA](https://www.scholingua.com/en/de/conjugation-trainer)
 * [Deutsch.info](https://deutsch.info/en)
 * [DeutschAkademie](https://www.deutschakademie.de/online-deutschkurs/)
+* [Pokelingo](https://pokelingo.io/en/riddle/?lang=de) - Daily Pokédex reading riddle in German. Read an entry, guess the Pokémon in five tries.
 
 ## Blogs
 
