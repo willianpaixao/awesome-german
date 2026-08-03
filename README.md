@@ -117,6 +117,7 @@ A great source of information to learn and practice German as a foreign language
   * [r/de/](https://www.reddit.com/r/de/)
   * [r/ich_iel/](https://www.reddit.com/r/ich_iel/)
 * [Tandem](https://www.tandem.net/) [\[app\]](https://play.google.com/store/apps/details?id=net.tandem)
+* [OwnSlides](https://ownslides.com/) - blind-matched voice calls and audio rooms with other learners, plus pronunciation scored word by word
 
 ### PODCASTS & Radio
 
