@@ -80,6 +80,7 @@ A great source of information to learn and practice German as a foreign language
 * [schoLINGUA](https://www.scholingua.com/en/de/conjugation-trainer)
 * [Deutsch.info](https://deutsch.info/en)
 * [DeutschAkademie](https://www.deutschakademie.de/online-deutschkurs/)
+* [MeloLingua](https://melolingua.com/learn-german) [\[app\]](https://play.google.com/store/apps/details?id=com.melolingua.dailystories)
 
 ## Blogs
 
