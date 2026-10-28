@@ -105,6 +105,7 @@ A great source of information to learn and practice German as a foreign language
   * [Complementary B2 Vocabs](https://ankiweb.net/shared/info/1494453383)
   * [Aspekte B2 German Vocab. 1/2](https://ankiweb.net/shared/info/1846183647)
   * [Optimal B1 German Vocabulary](https://ankiweb.net/shared/info/570806021)
+* [Anki Miner](https://github.com/0xzerolight/anki_miner)
 
 ### MUSIC
 
